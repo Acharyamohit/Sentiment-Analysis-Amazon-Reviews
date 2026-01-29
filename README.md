@@ -3,6 +3,12 @@
 ## Project Overview
 This project applies a full text-analytics workflow to the Amazon Fashion subset of the Amazon Reviews 2023 dataset. The goal was to extract insights from unstructured text to monitor customer satisfaction and detect product issues.
 
+## Data Source
+This project uses the **Amazon Fashion** subset of the Amazon Reviews 2023 dataset (McAuley et al.).
+* **Source:** [Amazon Reviews 2023 - Amazon Fashion](https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/review_categories/Amazon_Fashion.jsonl.gz)
+* **Format:** JSONL (Gzip compressed)
+* **Note:** The dataset is not included in this repository due to size constraints. You can download it directly from the link above.
+
 **Research Objectives:**
 1. Measure similarity between reviews using TF-IDF and Cosine Similarity.
 2. Group reviews into meaningful clusters using unsupervised learning (K-Means).
