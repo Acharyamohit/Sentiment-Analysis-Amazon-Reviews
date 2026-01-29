@@ -59,4 +59,4 @@ We trained and evaluated five models to predict sentiment (Positive/Negative) fr
 ## Files in this Repository
 * `Amazon_Fashion_Reviews.ipynb`: Jupyter Notebook containing the full Python code for data loading, preprocessing, clustering, and modeling.
 * `Amazon_fashion_Reviews.pdf`: Full project report detailing the methodology, business implications, and references.
-* `Amazon_fashion_Reviews_Presentation.pdf`: Full project presentation with infographics.
+* `Fashion_Review_Data_Mining.pdf`: Full project presentation with infographics.
